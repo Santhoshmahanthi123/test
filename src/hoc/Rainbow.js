@@ -13,5 +13,4 @@ const Rainbow = (WrappedComponent) => {
   )
   
 }
-
 export default Rainbow
